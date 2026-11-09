@@ -35,13 +35,13 @@ I have also written two technical blog posts covering important TypeScript conce
 
 Explains how TypeScript narrows types using `typeof`, `instanceof`, and the `in` operator, with practical code examples.
 
-[Read Blog: Type Narrowing](./type-narrowing.md)
+[Read Blog: Type Narrowing](./blog-type-narrowing-.md)
 
 ### 2. Generics and Promises in TypeScript
 
 Explains how generics work, how to create reusable functions, and how `Promise<T>` improves type safety in asynchronous programming.
 
-[Read Blog: Generics and Promises](./generics-and-promises.md)
+[Read Blog: Generics and Promises](./blog-generics-and-promises.md)
 
 ## Repository Structure
 
