@@ -1,4 +1,4 @@
-# B8 Assignment 1
+# Assignment 1
 
 ## Problem Solving with TypeScript & OOP
 
